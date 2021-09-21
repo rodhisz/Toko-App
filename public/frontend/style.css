@@ -1,0 +1,38 @@
+.bd-placeholder-img {
+    font-size: 1.125rem;
+    text-anchor: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+    }
+
+    @media (min-width: 768px) {
+    .bd-placeholder-img-lg {
+        font-size: 3.5rem;
+    }
+    }
+
+    main{
+        padding-top: 30px;
+    }
+
+    nav{
+        padding: 25px 0 !important;
+    }
+
+    .btn-outline-warning{
+        border-color: white;
+        color: black;
+    }
+
+    .card{
+        text-align: center;
+    }
+
+    .bg-footer{
+        background-color: rgb(197, 241, 212);
+    }
+
+    main nav ol li a{
+        text-decoration: none;
+    }
