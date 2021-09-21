@@ -27,7 +27,7 @@
     <link href="{{asset('frontend/custom/corousel.css')}}" rel="stylesheet">
 
     <link rel="stylesheet" href="{{asset('frontend/style.css')}}">
-    <link rel="stylesheet" href="fontawesome/css/all.css">
+    <link rel="stylesheet" href="{{asset('frontend/fontawesome/css/all.css)}}">
 </head>
 
 <body>
